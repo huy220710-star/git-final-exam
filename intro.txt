@@ -1,1 +1,0 @@
-Họ Tên:Nguyễn Hoàng Huy echo MSSV:220710 echoGiới thiệu:Mình là sinh viên CNTT,yêu thích lập trình và công nghệ. echoSở thích: echo -Lập trình echo -Đọc sách ..intro.txt echo -Chạy bộ
