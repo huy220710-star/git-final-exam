@@ -1,0 +1,5 @@
+Tên tính năng: Tính năng tìm kiếm bài viết
+Mô tả: Cho phép người dùng tìm kiếm bài viết theo từ khóa.
+Input: Một ô tìm kiếm (placeholder: "Nhập từ khóa...").
+Output: Danh sách bài viết khớp, kèm phần phân trang nếu cần.
+Ghi chú: Cần tối ưu cho Unicode và tốc độ tìm kiếm.
